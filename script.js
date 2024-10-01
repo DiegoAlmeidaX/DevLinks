@@ -10,3 +10,5 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar-diego-dark.png")
   }
 }
+
+console.log("teste")
